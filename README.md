@@ -23,11 +23,11 @@ Challenges:
 
 
 Customer:
-  Type: consumer
-  Size: global, age > 12 or 18
-  Behavior: media & entertainment, daily/weekly
+- Type: consumer
+- Size: global, age > 12 or 18
+- Behavior: media & entertainment, daily/weekly
 Offering:
-  Type: content
-  Source: public
-  Size: random public issues. (not at an individual level)
-  Quality: views, likes, votes
+- Type: content
+- Source: public
+- Size: random public issues. (not at an individual level)
+- Quality: views, likes, votes
