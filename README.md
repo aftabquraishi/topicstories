@@ -26,6 +26,7 @@ Customer:
 - Type: consumer
 - Size: global, age > 12 or 18
 - Behavior: media & entertainment, daily/weekly
+
 Offering:
 - Type: content
 - Source: public
